@@ -47,3 +47,13 @@ We appreciate every contribution and suggestion that helps SwiftShare grow. Than
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+✅ Summary: What You Can Do
+
+Action	Allowed?
+Use commercially	✅ Yes
+Modify the source code	✅ Yes
+Distribute copies	✅ Yes
+Sublicense or sell	✅ Yes
+Use privately	✅ Yes
+Hold the author liable	❌ No
+Remove license notice	❌ No
