@@ -33,6 +33,17 @@ Files will be stored in the default "Downloads" folder, or you can configure the
 ## Contributing
 As this is an OpenSource Project
 We welcome contributions! If you have ideas for improvements or bug fixes, please feel free to fork the repository and create a pull request and you can use our project for ideas or improvements.
+## Acknowledgements
+
+👥 **Contributors**
+- [Rohith Vema](https://github.com/Rohithvema79)
+- [Mohan Krishna](https://github.com/Mohan-077)
+
+💻 **Built With**
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+We appreciate every contribution and suggestion that helps SwiftShare grow. Thank you for being part of the journey!
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
