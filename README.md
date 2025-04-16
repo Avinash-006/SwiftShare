@@ -37,7 +37,7 @@ We welcome contributions! If you have ideas for improvements or bug fixes, pleas
 
 👥 **Contributors**
 - [Rohith Vema](https://github.com/Rohithvema79)
-- [Mohan Krishna](https://github.com/Mohan-077)
+- [Mohan](https://github.com/Mohan-077)
 
 💻 **Built With**
 - [React](https://reactjs.org/)
