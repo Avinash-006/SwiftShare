@@ -9,7 +9,7 @@ Secure Connections: End-to-end encryption ensures your data is protected during 
 Cross-Platform Support: Compatible with iOS and macOS devices.
 Lightweight & Minimalistic Design: Focuses on simplicity and usability.
 
-## Installation
+## Installations
 #### Clone the repository:
 
 ```git clone https://github.com/Avinash-006/swift-share.git```
