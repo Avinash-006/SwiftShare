@@ -38,7 +38,7 @@ We welcome contributions! If you have ideas for improvements or bug fixes, pleas
 👥 **Contributors**
 - [Rohith Vema](https://github.com/Rohithvema79)
 - [Mohan](https://github.com/Mohan-077)
-
+- [7afidi]https://github.com/7afidi
 💻 **Built With**
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
